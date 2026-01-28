@@ -5,6 +5,7 @@ Repository for daily Pandas queries and visualization exercises.
 Purpose:  
 Improve data analysis skills through consistent practice with real-world-like e-commerce data.
 
+Dataset: `ecommerce_clean.csv` – simulated e-commerce orders data with 39 columns (customers, products, sales, profit, shipping, etc.)
 This repo uses a simulated e-commerce orders dataset containing the following columns:
 
 | Column                | Description                              |
